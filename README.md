@@ -7,13 +7,19 @@ InquAIr is a smart web-based PDF analysis tool powered by Google Gemini AI. It a
 * 📄 **PDF Upload & Preview** – Easily upload and view PDFs right in the browser.
 * 🧠 **AI-Powered Summarization** – Get concise document summaries using Google Gemini.
 * 🔖 **Clickable Tags** – Extract hashtags and keywords from content to quickly identify themes.
+* <img width="598" height="341" alt="image" src="https://github.com/user-attachments/assets/22a2bc33-a1ae-4a6d-b6b5-d5b64b3555c3" />
+
 * ✨ **Highlight in PDF** – Click a tag and instantly highlight related text in the PDF viewer.
 * 🤖 **Chat-Based Q\&A** – Ask questions from the document and receive intelligent answers.
+* <img width="791" height="1364" alt="image" src="https://github.com/user-attachments/assets/8c8b47f4-7515-42bb-b39e-2bb694addac3" />
+
 * 📷 **Image Insight Extraction** – Auto-detect and analyze images inside the PDF (if any).
 
 ## 🖼️ Demo
 
-![InquAIr Demo Screenshot](demo.png)
+<img width="940" height="469" alt="image" src="https://github.com/user-attachments/assets/f635dbbe-025e-4a4f-a8ee-92b8f840b785" />
+
+
 
 ## 💠 Tech Stack
 
