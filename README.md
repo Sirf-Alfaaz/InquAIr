@@ -1,7 +1,7 @@
 # InquAIr - AI-Powered PDF Assistant
 
 InquAIr is a smart web-based PDF analysis tool powered by Google Gemini AI. It allows users to upload PDF documents, view them in-browser, get a summarized overview, auto-extract insightful tags, and ask questions related to the content—all from a sleek, intuitive interface.
-
+<img width="940" height="469" alt="image" src="https://github.com/user-attachments/assets/f635dbbe-025e-4a4f-a8ee-92b8f840b785" />
 ## 🚀 Features
 
 * 📄 **PDF Upload & Preview** – Easily upload and view PDFs right in the browser.
