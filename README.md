@@ -11,7 +11,7 @@ InquAIr is a smart web-based PDF analysis tool powered by Google Gemini AI. It a
 
 * ✨ **Highlight in PDF** – Click a tag and instantly highlight related text in the PDF viewer.
 * 🤖 **Chat-Based Q\&A** – Ask questions from the document and receive intelligent answers.
-* <img width="791" height="1364" alt="image" src="https://github.com/user-attachments/assets/8c8b47f4-7515-42bb-b39e-2bb694addac3" />
+* <img width="444" height="790" alt="image" src="https://github.com/user-attachments/assets/8c8b47f4-7515-42bb-b39e-2bb694addac3" />
 
 * 📷 **Image Insight Extraction** – Auto-detect and analyze images inside the PDF (if any).
 
