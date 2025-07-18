@@ -71,7 +71,6 @@ cd inquair
 ### 2. Backend (FastAPI + Gemini)
 
 ```bash
-cd backend/
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
@@ -79,7 +78,7 @@ pip install -r requirements.txt
 # Create a .env file and add your Gemini API Key
 GOOGLE_API_KEY=your_api_key_here
 
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
 
 ### 3. Frontend (React)
